@@ -79,3 +79,9 @@ This dashboard allows users to analyze sales data from multiple angles using dyn
 This project was developed as part of a personal initiative to enhance skills in business intelligence, Power BI, and data storytelling.
 
 ---
+## 🖼️ Dashboard Screenshot
+
+![Dashboard Screenshot](./dashboard_screenshot.png)
+
+
+
